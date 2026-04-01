@@ -1,2 +1,2 @@
-# COEF
-Chronicles of Earthfall
+# C128GE - The C128 Game Engine
+
